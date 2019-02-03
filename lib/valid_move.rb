@@ -15,6 +15,5 @@ end
 
 
 
-ef position_taken?(board,index)
-   
+
 
